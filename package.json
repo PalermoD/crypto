@@ -4,6 +4,7 @@
   "description": "web crawler in javascript",
   "main": "crawler.js",
   "scripts": {
+    "start": "node crawler.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Palermo Deschamps",
